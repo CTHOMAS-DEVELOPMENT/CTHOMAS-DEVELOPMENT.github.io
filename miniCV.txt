@@ -1,0 +1,62 @@
+Charles Thomas, Front End Web Developer (Mid-level)
+
+Personal Information
+
+Location: Boyle, Co. Roscommon
+Phone: 0044-7864349189
+Profile
+
+Started in IT in 1986
+Worked as a full-time staff member and contractor
+Experienced in front-end and back-end development
+Skilled in Agile and Kanban methodologies
+Key Skills
+
+JavaScript: ES5/ES6/ES7/Typescript
+SPA Framework: React V15-V18
+HTML5, CSS3/SCSS
+Back-end: Node/Express, SQL/NoSQL, and Firebase
+GraphQL, D3, Highcharts, Snap.js, Raphael.js, and SVG
+Design: Figma
+CI-CD: AWS, Git
+Testing: Testing-library, Jest+Enzyme
+Documentation: Jira and Confluence
+Recent Work Experience
+
+Brightpearl Limited, Front-end Engineer (Sept 2021 - present)
+
+Developing/migrating new front end for Brightpearl and Sage Intacct
+Worked with a team of 3 other front-end developers
+Technologies used: HTML5, JS, SCSS, React V18, Typescript, React-Query, Styled Components, Storybook, Tailwind, and CI/CD pipeline
+Experian Ltd, Product Development Representative (Nov 2019 - June 2021)
+
+Develop optimisation campaigns (A/B and MV tests)
+Worked on draft designs for web page variants
+Technologies used: HTML5, JS, SCSS, ES6, Typescript, React V16.8+, Conductrics, Figma, SVG editing, and D3
+Reach PLC, Commercial Web Developer - Contract (Mar 2019 - Sept 2019)
+
+Maintained and enhanced online newspapers related to the "Advertising Product" side of the business
+Technologies used: Javascript ES6/7/8, React 16.3, Redux, Node/Express, Git, Grunt, Drone, and D3
+Kohesiv Ltd, Lead Front End Developer - Contract (Apr 2018 - Sept 2018)
+
+Worked on emerging financial markets systems/financial applications
+Technologies used: React 15., AngularJS 1.6., ES6, and SQL (Postgres), Highcharts 6.*
+Legacy Skills
+
+Angular V1.x, Ember V2, Webpack, Grunt, Java, Karma/Jasmine, PHP, ASP.NET 4.5, Visual Studio 2012, Adobe Omniture, Oracle, Sybase, Content Management Systems, Web Servers, Unix O/S, SilverStream, and Powerbuilder
+Selected Previous Work Experience
+
+Virtusa UK, Senior Frontend Developer - Contract (Jan 2018 - Apr 2018)
+Cognizant Technology Solutions, Lead Architect (Apr 2016 - Nov 2017)
+Precipice Design, Front End Developer (Oct 2013 - Dec 2015)
+Velti, Front End Developer (Jan 2013 - Sept 2013)
+Sapient London, Front End Developer (Jul 2012 - Nov 2012)
+Ministry of Natural Resources, Systems Officer Level 3 (Mar 2002 - Jan 2011; Jun 2011 - Jun 2012)
+Reachable, Front End Developer (Feb 2011 - Jun 2011)
+Yell Limited, Web Application Developer (Jan 2001 - May 2001)
+Daily Mail, Web Application
+
+
+
+
+
